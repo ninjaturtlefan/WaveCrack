@@ -1,0 +1,120 @@
+[0806/120048.648:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0806/120048.846:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0806/120048.879:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0806/120049.328:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:00:49 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/120049.443:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:00:49 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/120049.443:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:00:49 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/120049.457:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:00:49 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/120049.461:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:00:49 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/120050.185:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:00:50 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/120050.203:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:00:50 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/120137.845:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:01:37 PM] ```lua
+string (61 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/121337.356:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:13:37 PM] ```lua
+string (61 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122715.339:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0806/122715.809:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:15 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122715.959:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:15 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122715.960:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:15 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122715.983:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:27:15 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122715.990:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:15 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122716.969:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:16 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122716.987:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:16 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122742.313:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:42 PM] ```lua
+string (61 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122743.328:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:43 PM] ```lua
+string (61 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/122744.066:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:27:44 PM] ```lua
+string (61 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/152548.239:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:25:48 PM] ```lua
+string (15 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/155203.801:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:52:03 PM] ```lua
+any
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/155204.471:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:52:04 PM] ```lua
+function<a>(Value: a): ()
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/155205.893:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:52:05 PM] ```lua
+string (9 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/155206.337:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:52:06 PM] ```lua
+string (9 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/155208.027:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:52:08 PM] ```lua
+local flySpeedSlider: any
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/155210.327:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:52:10 PM] ```lua
+string (5 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/155211.923:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 3:52:11 PM] ```lua
+function<a>(state: a): ()
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/173950.973:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:39:50 PM] ```lua
+string (5 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/173951.847:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:39:51 PM] ```lua
+{string}
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/173952.678:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:39:52 PM] ```lua
+string (4 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/175043.821:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:50:43 PM] ```lua
+{
+    Callback: () -> (),
+    Title: string
+}
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/175044.377:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:50:44 PM] ```lua
+{
+    Callback: () -> (),
+    Title: string
+}
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/184502.767:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 6:45:02 PM] ```lua
+string (15 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0806/184503.019:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 6:45:03 PM] ```lua
+string (15 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144158.529:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0809/144159.012:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0809/144159.268:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0809/144200.161:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:00 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144200.391:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:00 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144200.399:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:00 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144200.423:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:42:00 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144200.429:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:00 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144202.039:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:02 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144202.061:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:02 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144223.703:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0809/144224.125:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:24 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144224.309:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:24 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144224.310:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:24 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144224.333:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:42:24 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144224.342:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:24 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144225.621:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:25 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144225.638:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:42:25 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0809/144742.863:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:47:42 PM] ```lua
+{
+    Buttons: {{
+        Callback: () -> (),
+        Title: string
+    }},
+    Content: string,
+    Title: string
+}
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0811/133130.362:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0811/133130.831:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 1:31:30 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0811/133130.985:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 1:31:30 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0811/133130.987:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 1:31:30 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0811/133131.000:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 1:31:31 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0811/133131.008:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 1:31:31 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0811/133131.880:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 1:31:31 PM] Loading definitions file: C:/Users/User/AppData/Local/Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0811/133131.898:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 1:31:31 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
